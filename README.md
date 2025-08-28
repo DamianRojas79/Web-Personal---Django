@@ -1,6 +1,7 @@
+
 ## Web Personal - Django
 
-
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/web_personal.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
@@ -56,12 +57,7 @@
 
 **Web Personal** es una aplicación la cual te permite cargar tus proyectos de manera muy simple utilizando el panel de administrador que ofrece Django. También la aplicación cuenta con una  página **Acerca de** y **Contacto** de la persona  <br><br>
 
-Imagen Proyecto  
 
-
-
-  
-  
 
 ## Estado del Proyecto
 
@@ -80,73 +76,49 @@ Imagen Proyecto
 
 Desde el Panel de Administrador que ofrece Django se pueden cargar y gestionar fácilmente los proyectos que se desean subir al sitio.  <br><br>
 Desde el panel se podran:
-* Añadir un nuevo proyecto.
-Permitiendo aqui ingresar Título, Descripción , Cargar una imagen y un Link de enlace del proyecto si se desea.
-Imagen
+* Añadir un nuevo proyecto.<br>
+Permitiendo aqui ingresar Título, Descripción , Cargar una imagen y un Link de enlace del proyecto si se desea. <br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/panel_crear_proyecto.png)
+<br><br>
 
-* Listar los proyectos.
-También desde el panel se pueden listar todos los proyectos cargados,  con las posibilidad de filtralos por Fecha de Creación o Fecha de Modificación 
-Imagen
+* Listar los proyectos.<br>
+También desde el panel se pueden listar todos los proyectos cargados,  con las posibilidad de filtralos por Fecha de Creación o Fecha de Modificación. <br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/panel_listar_proyecto.png)
+<br><br>
 
-* Eliminar o Modificar los proyectos.
-Se pueden modificar o eliminar los proyectos existentes.
-Imagen
-
+* Eliminar o Modificar los proyectos.<br>
+Se pueden modificar o eliminar los proyectos existentes. <br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/panel_modificar_proyecto.png)
+<br><br>
 
   
-
-
-  
-
 - `Funcionalidad 2`: **Menú de navegación** <br>
 
-En la parte superior se encuentra el menú de navegación para acceder a las paginas de "Portafolio", "Acerca De" y "Contacto".
-Imagen 
+En la parte superior se encuentra el menú de navegación para acceder a las paginas de "Portafolio", "Acerca De" y "Contacto".<br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/menu_navegacion.png) 
+<br><br>
   
-
-
-
-  
-  
-
 - `Funcionalidad 3`: **Página de Proyectos - Portfolio**<br>
-En esta página se pueden visualizar todos los proyectos subidos ordenados desde los mas recientes alos mas antiguos.
-Image
-  
+En esta página se pueden visualizar todos los proyectos subidos ordenados desde los mas recientes alos mas antiguos.<br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/visualizar_proyectos.png)
+<br>
  
-
-
-  
-
 - `Funcionalidad 4`: **Página Acerca De** <br>
-
 Esta página contiene una descripción personal de la persona con sus habilidades y cualidades. Debajo también se visualiza una barra de progreso con algunas de sus habilidades.
-
-
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/pagina_acerca_de.png)
+<br><br>
 
 - `Funcionalidad 5`: **Página de Contacto** <br>
-
-Página con los contactos personales.
-
-
-  
+Página con los contactos personales.<br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/pagina_contacto.png)
+<br><br>
 
 - `Funcionalidad 6`: **Acceso a redes Sociales** <br>
-
-En el pie de cada página se encuentran los accesos a las redes Sociales.
-Imágen
-  
-
-  
-
-
-  
-  
-
+En el pie de cada página se encuentran los accesos a las redes Sociales.<br><br>
+![image alt](https://github.com/DamianRojas79/Web-Personal-Django/blob/main/webpersonal/images_git/acceso_redes.png)
+<br><br><br><br>
+ 
 ## Acceso al Proyecto
-
-  
-
 Para descargar y ejecutar el proyecto se debe realizar los siguientes pasos:
 
   
@@ -165,8 +137,6 @@ Ejecutar:<br>
 
 mkdir Web-personal
 
-
-  
 
 - **Clonar repositorio**<br>
 
